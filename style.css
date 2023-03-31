@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+  background-color: #d81519;
+  margin-top: 0;
+}
+
+h3,
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.table_container {
+  margin-top: 30px;
+}
+
+table,
+td {
+  border: 1px solid #333;
+}
+
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#result {
+  font-weight: normal;
+}
